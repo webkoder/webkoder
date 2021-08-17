@@ -2,6 +2,13 @@
 
 👓 I'm here to get updated about technologies and programming languages news, and maybe add more stuff to my profile... 🤓
 
+💻 FullStack developer => PHP/Laravel && ReactJS
+🎡 Working with Ad Tech
+👍 Interested in Web design, web performance and graphic design
+🐍 Studying Python and subject related to data science
+⌨ Hard user of VSCode, Github and Spotify
+👪 Father, husband, coffee addict, beer appreciator
+
 ![Mr. Rick's Status](https://github-readme-stats.vercel.app/api?username=webkoder&theme=gruvbox)
 ![Mr. Rick's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=webkoder&langs_count=3&theme=gruvbox)
 
