@@ -8,7 +8,7 @@
 
 👍 Interested in Web design, web performance and graphic design
 
-🐍 Studying Python and subject related to data science
+🐍 Studying Python and subjects related to data science
 
 ⌨ Hard user of VSCode, Github and Spotify
 
